@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing until I have build experience.
 - 📫 How to reach me: orders@westcountryrepairs.co.uk(Business email)
 - 😄 Pronouns: any/all
-- ⚡ Fun fact: [==‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ] 20%
+- ⚡ Fun fact: [==‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ] 20%
 - 💻 Languages: Python, Rust
 
 <!---
