@@ -5,6 +5,7 @@
 - 📫 How to reach me: orders@westcountryrepairs.co.uk(Business email)
 - 😄 Pronouns: any/all
 - ⚡ Fun fact: [LOADING...]
+- 💻 Languages: Python, Rust
 
 <!---
 PigPlayzMC/PigPlayzMC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
