@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PigPlayzMC.
-- 👀 I’m interested in game development and finding creative solutions to modern problems.
+- 👀 I’m interested in finding creative solutions to modern problems.
 - 🌱 I’m currently learning Rust.
 - 💞️ I’m looking to collaborate on nothing until I have build experience.
 - 📫 How to reach me: orders@westcountryrepairs.co.uk(Business email)
