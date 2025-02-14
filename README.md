@@ -1,5 +1,3 @@
-Working on a branch ATM. Please excuse lack of contributions.
-
 - 👋 Hi, I’m @PigPlayzMC.
 - 👀 I’m interested in finding creative solutions to modern problems.
 - 🌱 I’m currently learning Rust and Javascript.
